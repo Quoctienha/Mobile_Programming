@@ -4,5 +4,5 @@
 
 **Dessert Clicker:** [Architecture Components](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-1#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-practice-viewmodel)
 
-
+**Testing basic:** [(Deprecated) Advanced Android in Kotlin 05.1: Testing Basics](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics#2)
     
